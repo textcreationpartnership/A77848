@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romes cruelty &amp; apostacie: declared in a sermon preached on the fifth of November, 1644. Before the Honourable House of Commons. By Anthony Burgess, pastour of Sutton Coldfield; a Member of the Assembly.</title>
+            <author>Burgess, Anthony, d. 1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77848</idno>
+            <idno type="STC">Wing B5655</idno>
+            <idno type="STC">Thomason E19_16</idno>
+            <idno type="STC">ESTC R12627</idno>
+            <idno type="EEBO-CITATION">99859311</idno>
+            <idno type="PROQUEST">99859311</idno>
+            <idno type="VID">111385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 4:E19[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Romes cruelty &amp; apostacie: declared in a sermon preached on the fifth of November, 1644. Before the Honourable House of Commons. By Anthony Burgess, pastour of Sutton Coldfield; a Member of the Assembly.</title>
+                  <author>Burgess, Anthony, d. 1664.</author>
+               </titleStmt>
+               <extent>[6], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Miller for Tho. Vnderhill at the signe of the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary imprimatur leaf; probably printed as D4.</note>
+                  <note>Running title reads: A sermon preached before the Honourable House of Commons, Novem. 5. 1644.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Revelation XIX, 2 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111385:1"/>
+            <pb facs="tcp:111385:1" rendition="simple:additions"/>
+            <p>ROMES Cruelty &amp; Apoſtacie: DECLARED IN A SERMON Preached on the fifth of <hi>November,</hi> 1644. Before the Honourable Houſe of COMMONS. <hi>BY Anthony Burgeſs,</hi> Paſtour of <hi>Sutton Coldfield;</hi> A Member of the Aſ<g ref="char:EOLhyphen"/>ſembly.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Miller</hi> for <hi>Tho. Vnderhill</hi> at the Signe of the Bible in Woodſtreet. 1645.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:111385:2"/>
+            <pb facs="tcp:111385:2"/>
+            <head>TO THE HONOVRABLE Houſe of COMMONS Aſſembled in Parliament.</head>
+            <opener>
+               <salute>Worthy Patriots,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Church of God under her troubles is nei<g ref="char:EOLhyphen"/>ther to become (with the Poets <hi>Niobe</hi>) a ſenſeleſs ſtone, deſpiſing the affliction of God; nor yet with (their <hi>Hecuba</hi>) a mad dog, ra<g ref="char:EOLhyphen"/>ging through impatiencie at Gods Providence towards her; For whether God exerciſeth her with outward per<g ref="char:EOLhyphen"/>ſecutions, it is (as <hi>Auſtin</hi> ſaid) to try her patience; or with hereſies and errours, it is to prove her ſapience and wiſdome. And this may ſatisfie us, that Gods love and care for his Church, and truth, is greater then ours can be; and the loſſe of his glory is dearer to him, then the loſſe of our temporall comforts can be to us. It is true, as God to demonstrate the divine authority of the Scriptures, uſeth not ſuch arguments, that agree with a proud and carnall wit, but ſuch as are agreeable to the holineſſe and majesty
+<pb facs="tcp:111385:3"/> of the things contained therein; ſo alſo God in his Provi<g ref="char:EOLhyphen"/>dence towards his Church goeth not in ſuch a way which our hearts would expect, but in that which is moſt beſee<g ref="char:EOLhyphen"/>ming his love, wiſdom, &amp; power; &amp; this hath made thoſe, who have much appeared for God, to ſay (as <hi>Tully,</hi> when <hi>Pompey</hi> had the worſe by <hi>Caeſar,</hi> whoſe cauſe he judged the better) <hi>In divinis magna eſt caligo,</hi> Gods Preſence is ſometimes in a great cloud. Be not therefore diſmayed (honourable Senators) notwithſtanding the many oppoſi<g ref="char:EOLhyphen"/>tions in the way of this your begun Reformation, and think not to be quiet, as long as the popiſh adverſary can work; For as <hi>Auſtin</hi> obſerved of the Romans (while Pagans) among the many Temples they built to ſeverall Goddeſses, there was one alſo built to <hi>Quies,</hi> to whom notwithſtan<g ref="char:EOLhyphen"/>ding they never ſacrificed, becauſe of their delight in war. The ſame may be applyed to <hi>Rome,</hi> now Antichristian, who delights to make her ſelfe drunke in the bloud of the Saints. But God hath frustrated her many plots, and ex<g ref="char:EOLhyphen"/>pectations, of which this Fifth day of <hi>November</hi> is a famous memoriall. The Lord ſo proſper you in your work, that neither fraud, or force may destroy it.</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant in Chriſt Jeſus,</hi> Anthony Burgeſs.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:111385:3"/>
+            <head>A SERMON preached before the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons, the 5. of <hi>November,</hi> 1644.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. 19.2.</hi>
+                  </bibl>
+                  <p>For true and righteous are his judgements, for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the bloud of his ſervants at her hand.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Am not ignorant how much revelation is neceſſary to underſtand this Booke of <hi>Re<g ref="char:EOLhyphen"/>velation,</hi> and that Interpreters themſelves need interpretatio<g ref="char:cmbAbbrStroke">̄</g>, inſomuch that the lear<g ref="char:EOLhyphen"/>ned <hi>Arias Montanus</hi> relateth, that though he had thirty yeares ſtudied the Scripture, with the helpe of Expoſitors, he underſtood onely one or two Chapters, and therefore was wont to ſay, That the Expoſitors were as hard to be underſtood as the Text. There are ſome Comments that may be called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, obſcurities upon the <hi>Revelation:</hi> yet for all this, none may bring an ill report upon this Booke that floweth with Milke and Honey, though there may be <hi>Anakims,</hi> great objections in the way, for the Scripture
+<pb n="2" facs="tcp:111385:4"/> calleth them bleſſed, and wiſe that underſtand theſe my<g ref="char:EOLhyphen"/>ſteries; and the difficulties are, to ſhake of our negligence, and to quicken our deſire to know, as <hi>Baſil</hi> ſaid, Nature had guarded the Roſe with prickes, that ſo the danger to get it, might the more irritate to have it. Beſides, the book being full of Prophecies, it's congruous, they ſhould be cloathed with ſome obſcurities: Therefore we won<g ref="char:EOLhyphen"/>der at the boldneſſe of the ancient Monks, who were nei<g ref="char:EOLhyphen"/>ther skilfull in the tongues, or Scripture, that yet would adventure to open this ſealed Book, which how happily they have done appeareth in their expounding the very firſt word <hi>Apocalypſis,</hi> which (they ſay) commeth of <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>clipſor clipſaris,</hi> i.e. <hi>velo velas.</hi>
+            </p>
+            <p>The ſubject that I have pitched upon, is not clogg'd with any of theſe Objections, for they are part of that ſong, which a Company in Heaven praiſed God with, for his judgements upon <hi>Rome,</hi> and the ſumme of their thankſgiving is generall, <hi>All his judgements are right.</hi> 2. Particularly, upon the Church of <hi>Rome,</hi> who is called <hi>Babylon,</hi> becauſe of her oppreſſion and captivating the people of God; and <hi>whore,</hi> becauſe of her corrupt falſe<g ref="char:EOLhyphen"/>hoods and idolatries; and <hi>great whore,</hi> becauſe of her univerſall corrupting the whole earth; ſhe is alſo de<g ref="char:EOLhyphen"/>ſcribed by her cruelty, ſhe had ſhed the bloud of Gods Servants; yea, <hi>Chap.</hi> 18. the bloud of all the Saints, (thoſe that were murdered elſewhere, are yet ſaid to be found in her.)</p>
+            <p>Before I come to the Doctrines, I muſt cleare one doubt, and that is, Whether this City be <hi>Rome,</hi> or no? For as the Jewes look'd for another kind of Chriſt then the true <hi>Meſsias,</hi> ſo the Papiſts for another kind of Anti<g ref="char:EOLhyphen"/>chriſt then the Scripture holds forth: And as Chriſt is proved to be the <hi>Meſsias</hi> not by one property onely (for
+<pb n="3" facs="tcp:111385:4"/> that may agree to another) but all the Characters toge<g ref="char:EOLhyphen"/>ther: ſo is Antichriſt to be found out by the accumulati<g ref="char:EOLhyphen"/>on of all markes together. Now that <hi>Rome</hi> is this City appeareth; <hi>Rev.</hi> 17.18. The woman (which is the ſame with <hi>Babylon</hi> and the <hi>whore</hi> in my Text) is ſaid to have power over all the kings of the earth; and this was only the Romane Monarchy at that time.</p>
+            <p n="2">2. She is called emphatically <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, now <hi>Rome</hi> was onely the famous City, being called <hi>urbs</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="3">3. This City is ſaid to be ſet on ſeven hils: <hi>Chap.</hi> 17.9. which doth only agree to <hi>Rome,</hi> called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and how<g ref="char:EOLhyphen"/>ſoever <hi>Mountacutius</hi> would prove this true of <hi>Constanti<g ref="char:EOLhyphen"/>nople;</hi> yet if it were ſo, it is ſo obſcure in ſtory that it is not to be regarded; and this is ſo cleare that <hi>Bellarmine</hi> confeſſeth it, but then he addeth, this was true of <hi>Rome,</hi> while it was Ethnicall, and not now Papall: That this is falſe appeareth in that Antichriſt is to be in the Temple of God, which was not true of the Heathen Emperours.</p>
+            <p n="2">2. 'Tis ſuch a <hi>Babylon</hi> that for a while they were law<g ref="char:EOLhyphen"/>fully in her, but when her corruptions did increaſe, then they were commanded to depart, which could not be af<g ref="char:EOLhyphen"/>firmed of <hi>Rome</hi> paganiſh.</p>
+            <p>This being premiſed, I obſerve two Doctrines.</p>
+            <p n="1">1. <hi>That the Church of Rome is greatly apoſtatized from her former true faith.</hi>
+            </p>
+            <p>She that was a Matron is become an whore: She ſuc<g ref="char:EOLhyphen"/>ceedes her predeceſſours, as <hi>Veſpae ſuccedant apibus,</hi> as waſpes come into the neſts of Bees; Nor is it any matter that they have the Creed and many externals of Religion, <hi>habent enim &amp; veſpae ſuos favos,</hi> the Waſpes have their combes alſo, though no honey in them, as <hi>Tertullian</hi> ſaid, The time was when ſuch a point as this might not be preſſed, There was a law that no body ſhould eate of
+<pb n="4" facs="tcp:111385:5"/> this honey, but ſince God raiſed up you, Honourable Pa<g ref="char:EOLhyphen"/>triots, Truth, like <hi>Sampſon,</hi> hath broke all the cords ſhe was tyed in.</p>
+            <p>Obſ. 2. <hi>That Romes corrupt wayes are accompanyed with bloudy cruelties.</hi>
+            </p>
+            <p>I will begin with the laſt firſt, and ſhew, they are blou<g ref="char:EOLhyphen"/>dy, partly doctrinally, and partly practically.</p>
+            <p>Doctrinally, in theſe Poſitions:</p>
+            <p n="1">1. In maintaining the Popes power over all temporall Kingdomes, for the Pope, like the divell, will ſhew all the glory of a kingdome, and give it to ſome creature of his, if he will continue to worſhip him, and how bloudy this principle hath been, all that reade hiſtories know. It is true, <hi>Bellarmine</hi> uſeth many diſtinctions in the aſſerting of this power, for the Jeſuites in all their controverſies ſtrive who ſhall ſhew the moſt ſubtilty, as <hi>Apelles</hi> and an other Painter contended, who ſhould draw the ſmalleſt line. But as for other Authors they maintained this pow<g ref="char:EOLhyphen"/>er of the Popes more boldly and more ignorantly. How learned was that argument, becauſe it's ſaid, <hi>In principio,</hi> not <hi>principiis,</hi> in the beginning, not the beginnings, there<g ref="char:EOLhyphen"/>fore there was but one ſupreme power, and that was the Popes.</p>
+            <p n="2">2. That an heretique, for hereſie ſake, and in point of Conſcience, though he doe not trouble the ſtate, ought to be put to death; this alſo makes to the effuſion of much bloud. There are in this controverſie two extreames, the Papiſts on one ſide, who are for corporall death, and the cruell burning of thoſe who diſſent from their Church. <hi>Qui haereticos occidendos negant, de ſeipſis ſolliciti ſunt,</hi> ſaith <hi>Maldonat.</hi> And the other of the Socinians, who would have no outward forcible reſtraining of any error, though never ſo groſſe and pernicious; certainly the Magiſtrate
+<pb n="5" facs="tcp:111385:5"/> is ſo to walke that he be neither guilty of remiſſeneſſe and want of zeale, nor yet of unwarrantable ſeverity. <hi>Meiſnor</hi> doth well diſtinguiſh between <hi>haereticus ſimplex,</hi> and <hi>haere<g ref="char:EOLhyphen"/>ticus ſeditioſus ac blaſphemus,</hi> theſe laſt he ſaith may be puniſhed with capitall puniſhments; but the Pope and his complices hold otherwiſe. For when they have anathe<g ref="char:EOLhyphen"/>matiz'd a nation or people, <hi>ne bruta eſſent fulmina,</hi> they inflame kings, and provoke them to deſtroy all with ſword and fire; Thus <hi>cum ſolitudinem fecerunt, pacem ap<g ref="char:EOLhyphen"/>pellant;</hi> they call an utter deſolation, peace. And this fur<g ref="char:EOLhyphen"/>ther makes their opinion bloudy, that they will judge what hereſie is. How much bloud in <hi>France, Germany,</hi> and other parts hath this doctrine ſhed?</p>
+            <p n="3">3. That no publike faith or promiſe is to be kept with ſuch heretiques. As if <hi>Christiana fides</hi> and <hi>punica</hi> were all one. Who hath not read of the ſad Covenant-breach with <hi>Iohn Huſs,</hi> by the Emperour <hi>Sigiſmund,</hi> being provoked thereunto by the Papiſts, and <hi>Ioannes de Roma,</hi> a Prieſt, ſaid, that in the deſtruction of the Lutherans, Judges were not bound to follow law, or reaſon. But how contrary is this to Scripture, we have a fearfull inſtance in the Pro<g ref="char:EOLhyphen"/>phet <hi>Ezekiel,</hi> of <hi>Zedekiah</hi> the King, who brake his faith with the king of <hi>Babylon:</hi> how doth God take notice of this ſin eſpecially, and puniſh him for it? Yea, did not the Heathens by the Moon-light of nature ſee this, and there<g ref="char:EOLhyphen"/>fore how much admired is that Romane, who kept his faith with <hi>Carthage,</hi> though he knew it would be his de<g ref="char:EOLhyphen"/>ſperate ruine? And did not God puniſh <hi>Sauls</hi> poſterity, for the breach of his Covenant with the <hi>Gibeonites,</hi> though it was deceitfully obtained? How true doe they make that old proverbe, <hi>Men play with oaths, as children with ſhels?</hi>
+            </p>
+            <p n="4">4. That mentall Reſervations and Equivocations are
+<pb n="6" facs="tcp:111385:6"/> lawfull; This alſo muſt needs overthrow ſtate conſtituti<g ref="char:EOLhyphen"/>ons, though adamantine, for ſeeing that truth and words they are the ſinewes and ligaments of the body politicke, if theſe be cut and diſſolved, how can the body ſtand? What deluſions of Magiſtrates? What evaſions of righ<g ref="char:EOLhyphen"/>teous judgements? What inſnaring of innocent men? what doubling in oathes will there be by this meanes? How can an oath be an end of a controverſie if this be allowed? O ye holy Martyrs lay aſide your glorious Robes of immortality, you died like fooles, and were guilty of your owne bloud, when as you might have denyed, and forſworne all by mentall Reſervations. <hi>Aquinas</hi> ſaith well, That an oath is for practicals, what firſt Principles are for ſpeculatives; and as any concluſi<g ref="char:EOLhyphen"/>on will eaſily be granted, which ſhineth by the light of the firſt principles; ſo that fact muſt be ſubmitted to, which is confirmed by an oath. But by this doctrine, firſt Principles in ſocieties are quite extinguiſhed. It is true, there are ſome Papiſts, that doe write againſt theſe Jeſui<g ref="char:EOLhyphen"/>ticall aſſertions; but they are not conſiderable, nor doth the Pope of <hi>Rome</hi> looke upon ſuch as his abettors. How doth the morall honeſty of Heathens exceed their piety, for <hi>Tully</hi> doth relate among the examples <hi>malae fidei,</hi> that fact of a ſouldier, priſoner, who by <hi>Hannibals</hi> per<g ref="char:EOLhyphen"/>miſſion had leave to goe out upon his oath, that he would returne againe, and he returneth preſently, pretending he had forgot ſomething, and ſo by this, thought himſelfe freed from his oath.</p>
+            <p n="5">5. That there is an abſolute neceſſity of concealing all things revealed in auricular Confeſſion; and this do<g ref="char:EOLhyphen"/>ctrine hath been a private backway to let in horrible conſpiracies and murders, <hi>Nullum tantum malum eſſe po<g ref="char:EOLhyphen"/>test cujus vitandi cauſa confeſsionem prodere liceat,</hi> and <hi>Bel<g ref="char:EOLhyphen"/>larmine</hi>
+               <pb n="7" facs="tcp:111385:6"/> praiſeth <hi>Garnet,</hi> that would not reveale this Gun-powder treaſon; becauſe (forſooth) confeſſion (as they ſay) is <hi>De jure Divino,</hi> and temporall authority <hi>de jure humano, leviori damno reges omnes quotquot ſunt occide<g ref="char:EOLhyphen"/>rentur quam vel una confeſsio revelaretur, Caſaubon</hi> ſaith, this was a Jeſuites ſpeech to him; I wonder whether they would hide it, if there were a conſpiracie to kill the Pope? Thus you ſee how all their opinions are with Dracoes written in bloud. But there was one Jeſuite eſcaped well in this matter of Confeſſion, his name was father <hi>Aubigney,</hi> who in the bloudy fact of <hi>Ravilliack,</hi> being cal<g ref="char:EOLhyphen"/>led in queſtion, and demanded, what was revealed to him? He replyed this anſwer, that God had given him this grace, that whatſoever was told him in Confeſſion, he preſently by a miracle forgot it, and for all the world could not remember it againe. I thinke if this anſwer ſa<g ref="char:EOLhyphen"/>ved him, it was the beſt grace ever God beſtowed on him.</p>
+            <p n="6">6. That the Clergie are exempted from ſubjection, and ſo cannot be guilty of treaſonable practiſes: <hi>Clerici rebellio in regem, non eſt crimen laeſae Majestatis, quia non eſt ſubditus regi,</hi> and if ſo, what wickedneſſe may be com<g ref="char:EOLhyphen"/>mitted by them without any controll. That ſame di<g ref="char:EOLhyphen"/>ſtinction of Clergie and Laity, though it hath been uſed well enough in an Eccleſiaſtique ſenſe for diſtinction ſake, yet in the popiſh way is very deteſtable, for hereby they hold themſelves ſo the inheritance and portion of God, that they are exempt from all juriſdiction; and I know not how many temporall governours have given way too much hereunto; now doth not this aſſertion di<g ref="char:EOLhyphen"/>rectly oppoſe <hi>Ro<g ref="char:cmbAbbrStroke">̄</g>.</hi> 12.1. <hi>Let every ſoul,</hi> &amp;c? and what is more knowne then that Explication of <hi>Chryſostome,</hi> Every ſoul, though he be a monk, a prieſt, though he be never ſo ſpi<g ref="char:EOLhyphen"/>rituall, as they call it, is underſtood here by the Apoſtle.</p>
+            <pb n="8" facs="tcp:111385:7"/>
+            <p n="7">7. That blind Obedience unto Governours is neceſſa<g ref="char:EOLhyphen"/>ry, and you may eaſily ſee what knives and ſwords this opinion hath in it: Let in this upon a people, that what<g ref="char:EOLhyphen"/>ſoever the Pope and his Officers ſhall command to be done, though it be to deſtroy an whole kingdome; yet it muſt without any diſputation be obeyed: Let in this doctrine, and you let in the Trojan horſe; It's no wonder, if they hold this in matter of fact, when they alſo main<g ref="char:EOLhyphen"/>tain it in matter of faith. That it is better defined by ig<g ref="char:EOLhyphen"/>norance then knowledge. Thus what <hi>Seneca</hi> complai<g ref="char:EOLhyphen"/>ned of, as a great weakneſſe among people, That <hi>homines malunt credere quam judicare,</hi> and they doe receive all wor<g ref="char:EOLhyphen"/>ſhip of God, <hi>tanquam legibus juſſum,</hi> rather then <hi>diis gra<g ref="char:EOLhyphen"/>tum,</hi> will be made a vertue in theſe men; yea, that they do <hi>mereri credendo,</hi> even by beleeving ſo ſtupidly they me<g ref="char:EOLhyphen"/>rit. Thus when theſe Philiſtines have put out mens eyes, they will make them drudge in what Mils they pleaſe.</p>
+            <p n="8">8. That the Pope may diſpenſe in all vowes and pro<g ref="char:EOLhyphen"/>miſes, and obligations, and who knowes not how <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath been like <hi>Egypt,</hi> all the waters of it turned into bloud by this doctrine? How have Popes abſolved peo<g ref="char:EOLhyphen"/>ple from their oaths and all civill obligations whatſoever? and that the Jeſuites they are like thoſe heathen prieſts that had ſnakes in one hand and firebrands in the other, and by this meanes the Papiſts have wrought themſelves out of all credit, that let what proteſtations, imprecati<g ref="char:EOLhyphen"/>ons, and obteſtations be made by them; yet becauſe the Pope can ſo eaſily untie ſuch knots, what truſt can be gi<g ref="char:EOLhyphen"/>ven to them? Well therefore is that Antichriſt ſet forth by the Dragon in the <hi>Rev.</hi> who is both ſubtile and blou<g ref="char:EOLhyphen"/>dy, and as <hi>Bernard</hi> ſaid of the Divell in tempting of mens ſoules, <hi>vereor magis ſerpentem gliſcentem, quam leonem rugientem:</hi> the ſame we may apply to them.</p>
+            <pb n="9" facs="tcp:111385:7"/>
+            <p n="9">9. That to ſlay their enemies, it is lawfull to kill their friends, if as much good will come by the one, as hurt by the other; and this is true in our caſe this day, for when <hi>Catesby</hi> asked <hi>Garnet,</hi> Whether it was lawfull to blow up in the Parliament the innocent with the nocent, he an<g ref="char:EOLhyphen"/>ſwered, it was lawfull to kill friends in the deſtruction of enemies, if ſo much good would ariſe as might recom<g ref="char:EOLhyphen"/>pence the ſlaughter of the innocent. How contrary are thoſe to God, God would ſave Sodome, if there were ten Righteous, and theſe would deſtroy Jeruſalem for ten wicked mens ſakes; and I remember a ſtory of a popiſh Duke, who when he was askt by his ſouldiers, Whether they ſhould kill friends or no in killing their enemies? he returned this anſwer, Yes, <hi>Deus enim novit, qui ejus ſunt,</hi> God will know well enough at the day of judgement, which are his. How bloudy and cruell then, muſt they needes be, who will kill their own to kill others.</p>
+            <p n="10">10. To praiſe and defend thoſe that have dyed their hands in bloud. Learned men relate many things out of the Papiſts to this purpoſe; That which concerneth our caſe this day, This inhumane bloudy Conſpiracy, wherein they had <hi>Nero's</hi> wiſh of <hi>Rome,</hi> that <hi>England</hi> had but one neck, and they cut it off, yet this is mitigated by them, <hi>Magna mihi opinio eſt faelicis eorum exitus &amp; ſalutis, qui etſi in conſilio opere<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> peccaſſent, constantes tamen in fide Romanae Eccleſiae ex hac luce diſceſſerunt.</hi> You ſee here is an <hi>etſi peccaſsent,</hi> and in theſe bloudy acts they confirmed themſelves by the Sacrament, as if that were the ſeale of other mens bloud, and not Chriſts.</p>
+            <p>And as for their cruell practiſes take theſe inſtances:</p>
+            <p n="1">1. Concerning the <hi>Waldenſes</hi> and poore <hi>Albigenſes,</hi> although we have little certainty of their opinions, they being for the moſt part reported by popiſh Authours, yet
+<pb n="10" facs="tcp:111385:8"/> of the cruelty uſed againſt them, how many ſad witneſſes have we? It would make your haire to ſtand upright with horrour. How many thouſands of them have been murdered in a day? and not content with their inno<g ref="char:EOLhyphen"/>cent bloud, they did waſte all the forreſt and trees, as if with the <hi>Manichees,</hi> they had thought the trees had a ra<g ref="char:EOLhyphen"/>tionall life, and that to cut downe a tree had been <hi>homici<g ref="char:EOLhyphen"/>dium,</hi> as the <hi>Manichees</hi> fancied.</p>
+            <p n="2">2. In <hi>France,</hi> what an ocean of bloud hath been ſhed there, ſometimes by conſpiracies and maſſacres; ſome<g ref="char:EOLhyphen"/>times by open hoſtile waies, and howſoever it be true, that the Proteſtants there in defence of their toleration, which was confirmed to them by law, did alſo ſhed much bloud, yet that was only defenſive, and bloud muſt be charged upon that ſide which did unjuſtly, and un<g ref="char:EOLhyphen"/>righteouſly begin the warre. And do but obſerve where<g ref="char:EOLhyphen"/>ſoever the Pope and his Agents have had to doe, that at laſt all hath ended in bloud.</p>
+            <p n="3">3. That in Queene <hi>Maries</hi> dayes, and this bloud is not yet dried up: How freſh are all the Stories of thoſe ſpiri<g ref="char:EOLhyphen"/>tuall <hi>Nero's</hi> in our mindes? what was <hi>Bonner</hi> or <hi>Gardner,</hi> but as they ſaid of <hi>Nero,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Howſoe<g ref="char:EOLhyphen"/>ver they labour to calumniate that book of Martyrs (as we have had ſome a late could not abide it) calling it a lying legend, yet it layeth ſuch a blemiſh upon them, that the holy water of <hi>Rome</hi> cannot cleanſe them from it.</p>
+            <p n="4">4. In <hi>Ireland,</hi> alas! whoſe hearts have not been affected with thoſe dolefull Tragedies there? How have they cruelly devoured, and ſpared no more then Tygers or Wolves? But this may ſupport us, that the bloud of Gods people hath a two-fold notable effect:</p>
+            <p n="1">1. It ſpeaketh and cryeth: Oh what a loud cry is there
+<pb n="11" facs="tcp:111385:8"/> in <hi>Ireland,</hi> which God will not alwayes refuſe: <hi>Abel</hi> though dead ſpeaketh.</p>
+            <p n="2">2. It makes fruitfull, and it is the <hi>ſemen Eccleſiae,</hi> even as when you ſhake one ripe flower, for one ſeed there commeth up many.</p>
+            <p n="5">5. In their attempt upon <hi>England</hi> this day: The parti<g ref="char:EOLhyphen"/>culars of this Tragedie are ſo knowne, that to relate them would be to weary you: conſider the horridneſſe of the plot, at one blow to deſtroy an whole nation. Thinke O <hi>Lucifer,</hi> and imagine, O prince of darkneſſe, a more bloudy attempt if thou canſt. What darkneſſe would have covered the land? How would the Sunne and Moone, (the great ones of the ſtate) been turned into bloud? How had the Philiſtines taken the Arke, our Miniſters been turned into Friers, our Bibles into images, our Tables into altars; yea, our Heaven turned immediately into an hell? All this was a plotting <hi>&amp; ſol non ſudas? &amp; terra non con<g ref="char:EOLhyphen"/>tremiſcis?</hi> How would the Kingdome have been like an <hi>Egypt,</hi> when every houſe had one dead in it? We cry out of <hi>Herods</hi> cruelty, that would have killed all the children of two yeares old: Here is greater bloudineſſe, even to de<g ref="char:EOLhyphen"/>ſtroy all in a Nation, O innocent <hi>Catiline</hi> and <hi>Verres</hi> to theſe men: and are theſe the men that cry up Charity, that hold it juſtifieth? Are theſe the men that admire S<hi rend="sup">t</hi> 
+               <hi>Francis</hi> his pity, becauſe he would not kill a Flea, when they can deſtroy an whole Kingdome? What and to be Saints for all this? Shall we, with <hi>Paul</hi> and <hi>Peter</hi> and the other Saints, ſee <hi>Catesby</hi> and <hi>Faux,</hi> and that company alſo?</p>
+            <p>Uſe of Exhortation, to loath that Religion, take heed of connivence at thoſe ſnakes, which when they are warm will ſting and poiſon. Oh this connivence at Pope<g ref="char:EOLhyphen"/>ry, how hath God avenged himſelfe upon <hi>Ireland</hi> and
+<pb n="12" facs="tcp:111385:9"/> 
+               <hi>England</hi> for it, we have complyed with their waies, and now God hath made them wofull ſcourges to us, may we not ſay, that the Lord hath made them, as the <hi>Iebu<g ref="char:EOLhyphen"/>ſites</hi> and <hi>Canaanites</hi> to us. <hi>In quo quis peccat, in eo punitur:</hi> Thinke not that your eſtates, and goods will content them, it muſt be your God, and your lives; when yee are willing your ſoules ſhould be damned, and your bodies killed, then thinke of reconciliation with the Church of <hi>Rome. Puniantur à te, ne tu pro illis puniaris:</hi> let them be puniſhed by you, leſt you be puniſhed for them; Execute you the judgement of the Lord upon them, as 'tis in your power, and never be quiet, till this and the other King<g ref="char:EOLhyphen"/>domes be free from it; Make no friendſhip with angry men, much leſſe with bloudy men; rather dye by them, then ever be reconciled with them, and know God hath promiſed to be avenged on that Church of <hi>Rome,</hi> and that they ſhall not alwayes boaſt in that marke of tempo<g ref="char:EOLhyphen"/>rall felicity. It is the greateſt honour that ever can be put upon you, to be inſtruments in deſtroying of her.</p>
+            <p>Uſe 2. of Inſtruction concerning the great difference between the popiſh, and Proteſtant Religion, in this mat<g ref="char:EOLhyphen"/>ter of bloud, for howſoever ſome Papiſts heretofore have endeavoured to ſhew the bloudineſſe of Calviniſticall Doctrine, making it the cauſe of all the warres in <hi>France, Germany,</hi> and <hi>Scotland,</hi> yet <hi>Bilſon</hi> doth fully and clearely vindicate them in their defenſive warres; And it is no<g ref="char:EOLhyphen"/>thing but calumny in ſome, who have laboured to make odious your preſent warre, as ariſing from the principles of Poperie, whereas there is indeed a vaſt difference both in the authority, in the end, in the nature, in the manner, and in the extent, as might at large be ſhewed, if it were pertinent.</p>
+            <p>
+               <hi>For true and righteous are his judgements,</hi> &amp;c.</p>
+            <pb n="13" facs="tcp:111385:9"/>
+            <p>The ſecond Doctrine is,</p>
+            <p>
+               <hi>That the Church of Rome hath greatly apostatized from all her former faith.</hi>
+            </p>
+            <p>The Apoſtle <hi>Paul</hi> ſaith of the Romanes, their faith was knowne to all the world, but now their Apoſtacy is as famous: Even as the Angels by their fall are become divels. It is true, to give the exact punctuall time, when this great change was, as <hi>Bellarmine</hi> demands, is impoſſi<g ref="char:EOLhyphen"/>ble, for it was a change by degrees, as conſumptions are in a body, and therefore it was the more dangerous and certainly mortall, <hi>Ille morbus vix est ſanabilis, qui ſanita<g ref="char:EOLhyphen"/>tem imitatur,</hi> and beſides, as <hi>Cameron</hi> doth well obſerve, changes to the worſe doe for the moſt part pleaſe all, and therefore little oppoſition being made, the Apoſtacy in the beginning of it can hardly be diſcovered. And the handling of this point will juſtifie that Reformation, which is now on the wheele.</p>
+            <p>The Cauſes of this Apoſtacy were,</p>
+            <p n="1">1. Pride and ambition. <hi>Chryſostome</hi> well called pride the mother of hell, for that made the divell, a divell, and ſo hell an hell; It is knowne to all, what arrogancy that Church did take unto her ſelfe, and how <hi>Tertullian</hi> in his time complained of the <hi>inſolentiam cleri Romani,</hi> now how ill would the poore contemptible way of Chriſt, and his truth agree with their ſpirits; therefore all the glory of the Church they interpreted it of outward and carnall glory; In that aſſertion how doe they extoll the Prieſthood? <hi>Creatura paruit Ioſuae, at Presbyteris Creator; fol illi, at his Deus quotieſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> verba ſacra pronuntiant:</hi> The Creature obeyed <hi>Ioſhua,</hi> but the Creator doth the Prieſts; The Sunne yeelded to him, but to theſe God doth as of<g ref="char:EOLhyphen"/>ten as they pronunce their words of Conſecration.</p>
+            <p n="2">2. Fraud and perfidiouſneſſe:</p>
+            <pb n="14" facs="tcp:111385:10"/>
+            <p>They had fully learned, that <hi>Regnandi cauſa,</hi> all oathes were to be violated; How groſſely were the Pope and his adherents taken in forging ſome Canons of the Councell of <hi>Nice,</hi> for their preeminent dignity; therefore their way is called a lye, and deceiveableneſſe.</p>
+            <p n="3">3. Covetouſneſſe; and if you look on all their opini<g ref="char:EOLhyphen"/>ons about indulgences, private Maſſes, auricular confeſſi<g ref="char:EOLhyphen"/>on, &amp;c. you will find love to mony the cauſe of them; ſo well was it ſaid in the Canon Law, <hi>Roma fundata à praedo<g ref="char:EOLhyphen"/>nibus, adhuc habet de primordiis.</hi>
+            </p>
+            <p n="4">4. Nouriſhing of ſinne:</p>
+            <p>This was uſuall with the Church of <hi>Rome,</hi> when any had been cenſured in the Eaſterne Churches for foule miſcarriages, then would ſhe incourage them to appeale to her, whereupon ſhe would releaſe them, by which meanes ſhe exalted her ſelfe into this great dominion ſhe hath; And then when ſhe would inflict Eccleſiaſticall cenſures, they were in a great part pecuniary, and meerly to the macerating of the body, no wayes to the ſaving of the ſoule, ſo that though the ſinnes of men by their pe<g ref="char:EOLhyphen"/>nance, were like <hi>Sampſons</hi> haire cut off, yet becauſe the root was there, they did grow into their full ſtrength again.</p>
+            <p n="5">5. Neglect of Scripture:</p>
+            <p>And this ſet open the flood-gate, whereby all the world was immediately drowned in errours; for take the eyes out of the body, the Sunne out of the firmament, the Compaſſe from the Ship, what can follow but confuſi<g ref="char:EOLhyphen"/>on? Therefore they have wiſhed that there had never been Scripture; That the Church could have done well enough with traditions only; They have called the Bible the Booke that hath made all the contentions in the world, and all the faith a man can have by it, to be only
+<pb n="15" facs="tcp:111385:10"/> humane, O the great patience of God, that beareth theſe blaſphemies; and therefore (worthy Patriots) in your way of Reformation doe you walke contrary, as they pull'd it downe, doe you ſet it up, regard the Scripture more then all State reſpects; This is the fountaine, and ſo the ſtreames that runne hence will be pure; It is impoſ<g ref="char:EOLhyphen"/>ſible (ſaith <hi>Chryſostome</hi>) that ever any good ſhould come from that man, who is not diligent in Scripture.</p>
+            <p n="6">6. The ſuteableneſſe of it to fleſh and bloud; and therefore it's called the <hi>wine of fornications.</hi> Even as they ſay, Leopards are taken not by arrowes and bowes, or open fire, but by leaving wine for them to drinke, where<g ref="char:EOLhyphen"/>by they are ſo intoxicated, that they are eaſily ſurpriſed; of this kind are all popiſh errours; He brings you milke as <hi>Iael</hi> did to <hi>Siſera,</hi> and afterwards ſtrikes a naile into your temples. As Satan beguiled <hi>Eve,</hi> ſo are we cooze<g ref="char:EOLhyphen"/>ned into errours; the devill did not appeare himſelfe, but uſed a ſubtile inſtrument, nor did he directly deny Gods Word, but made <hi>Quaeries</hi> and <hi>Vtrums</hi> upon it, and then he preſented that which was pleaſing to ſenſe; ſtriking out the feare of death, by all which meanes he at laſt decei<g ref="char:EOLhyphen"/>ved her.</p>
+            <p n="1">1. Their Doctrine is pleaſing to fleſh; It is good for the world to know, why all ſorts of men are ſo apt for Popery? Not long ſince, when there were altars and images brought into our Churches, what a generall wil<g ref="char:EOLhyphen"/>lingneſſe was there in people, but now to have ſuch things removed, what madneſſe doth it worke in men? and how doe they cry, as children for their babies again? Doe but conſider their doctrines extenuating Originall ſinne, making motions to ſinne unconſented to, no ſinne; That a man hath power to keep the Commandements; That the Commandement to love God binds only at
+<pb n="16" facs="tcp:111385:11"/> ſometimes, <hi>Scotus</hi> (as I take it) only on holy-dayes; That actuall inadvenrtency in holy duties doth not hinder the fruit of them; That if a man drinke till he be giddy, and the roome runne round, it is no drunkenneſſe; That Prayers ſaid in Latine, though we doe not underſtand them, are accepted; That the devout man, who in his prayer ſaid, <hi>Miſerere tui Domine</hi> for <hi>mei,</hi> yet had good de<g ref="char:EOLhyphen"/>votion and was acceptable to God.</p>
+            <p n="2">2. Their worſhip is outwardly ſenſible. Thus when they had taken away the Scripture, they ſet pictures up in their roome, now this pleaſeth the common people, <hi>Homo eſt magis ſenſus, quam intellectus,</hi> it was <hi>Ariſtotles</hi> ſpeech. Herein the popiſh religion doth much gratifie the ignorant people; The people of Iſrael cryed out for gods that might goe before them: To worſhip in ſpirit and truth can be no more underſtood by them, then the eye can ſee a ſpirit.</p>
+            <p n="3">3. Their piety extends to externall acts, for if we obſerve all their Theologie, its like that of the Phariſees, to look to the externall acts, not regarding the inward grace, but as he that would have ſet up his picture, and it would not ſtand, cryed, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, There wants ſome<g ref="char:EOLhyphen"/>thing within; the ſame may be ſaid of all their prayers and religious performances, There wants ſomething within.</p>
+            <p n="4">4. They make the Ordinances of God to conferre grace <hi>ex opere operato,</hi> whereby they take men off from being heart and ſoul-Chriſtians. Hence they ſpeake of Sacraments, as we would of ſome Phyſick or potion, that hath an inward naturall force and efficacy to produce ſuch an effect.</p>
+            <p n="5">5. They have cuſtome and antiquity for them, many of their fooliſh and ſuperſtitious cuſtomes are ſome hun<g ref="char:EOLhyphen"/>dred
+<pb n="17" facs="tcp:111385:11"/> yeares old, and what fathers and grandfathers have done, it is hard not to admire, and certainly had not the Scripture foretold what an Eclipſe would be upon the whole Church, we would thinke it impoſſible that ſuch ridiculous things ſhould be taken up. Becauſe Chriſt is the Light, therefore they have light at noone-dayes; Be<g ref="char:EOLhyphen"/>cauſe Chriſt ſaid we muſt be like children, therefore the Monkes weare Cowles, like childrens ſwadling-clouts, and one Pope (as Biſhop <hi>Abbot</hi> relateth it) made a ſerious motion in the Conclave that he and the Cardinals might ride on a ſolemne day on Aſſes to imitate Chriſts humility; but the Conclave thought the Aſſe rode the Pope too much already.</p>
+            <p n="6">6. They have the greater part of the world; And he muſt needs have a peremptory ſpirit, that doth not follow a multitude to doe evill; It is a ſigne he hath life in him that will ſwimme againſt the ſtreame. A man is a ſociable creature even in errours, as well as any thing elſe.</p>
+            <p n="7">7. They commend ignorance; By this meanes whereas God can make ſtones the children of <hi>Abraham,</hi> theſe make the children of <hi>Abraham</hi> ſtones, and the people they love to have it ſo; for this freeth them from Cate<g ref="char:EOLhyphen"/>chiſmes and Bibles.</p>
+            <p>Therefore the way to keepe out Popery is to incou<g ref="char:EOLhyphen"/>rage Learning; The heathens in their ſacrifice to <hi>Apollo</hi> offered Ivie to him, to ſhew, that Learning could not grow unleſſe the Magiſtrates would beare it up: God for<g ref="char:EOLhyphen"/>bid therefore that ever you ſhould diſcourage it; for at the ſame time when God brought truth into the world, humane literature flouriſhed, and was a great help there<g ref="char:EOLhyphen"/>unto.</p>
+            <p n="8">8. They pretend to Miracles; and by this meanes they have deluded a world of people; It is ſaid, he ſhould
+<pb n="18" facs="tcp:111385:12"/> bring downe fire from Heaven, though that which he would have done to day, was a contrary wonder, <hi>Ignis de terra,</hi> fire from under the earth; And although <hi>Auſtin</hi> ſaid, that he who would look now for Miracles, he him<g ref="char:EOLhyphen"/>ſelfe was a great Miracle; yet they make them as the eſ<g ref="char:EOLhyphen"/>ſentiall notes of the Church.</p>
+            <p>Uſe of Inſtruction, how neceſſary it is to reforme from Popery, leave off your contentions one with another, and ſet upon this common adverſary. Learne of the very Romanes, who though ſometimes at deadly enmity one with another, yet would <hi>deponere inimicitias,</hi> till they had done the publike ſervice; How can you ever indure that theſe trumperies and idolatries ſhould be brought in againe; Humble your ſelves that Parliaments heretofore have not done them; Let not Parliament ſinnes in ages heretofore come upon your ſcore; How often doe the people of Iſrael bewaile their owne ſinnes and the ſinnes of their fathers? doe you confeſſe your own ſinnes of un<g ref="char:EOLhyphen"/>willingneſſe, of coldneſſe in this worke, and the ſinnes of your Anceſtors. It is to be feared, that many of you have not got that zeale for the purity of Gods Ordinances, and Worſhip, as ought to be: And in the carrying on of this, take heed of two fatall rockes: 1. A ſinfull modera<g ref="char:EOLhyphen"/>tion. 2. A popiſh Tyranny.</p>
+            <p>A popiſh Tyranny is when any doe appropriate and incloſe to themſelves ſuch a power, which Chriſt hath not at all given, or if he have given it, he hath communi<g ref="char:EOLhyphen"/>cated it to more then one; This hath been the cauſe of much ſchiſme and contention in the Church of God; Chriſt hath inveſted the Officers of his Church with ſuf<g ref="char:EOLhyphen"/>ficient ſpirituall power for the attaining of that ſpirituall benefit, which they are to look for, and therefore doe you, being Magiſtrates confirme them in it.</p>
+            <pb n="19" facs="tcp:111385:12"/>
+            <p>The ſecond is moderation, and there are theſe ſorts:</p>
+            <p n="1">1. A Caſſandrean moderation, and that is, when men make an hodge-potch in Religion, and plow with an Oxe and Aſſe: Howſoever <hi>Grotius</hi> doth much extoll <hi>Caſsan<g ref="char:EOLhyphen"/>der</hi> and <hi>Eraſmus</hi> (whom <hi>Bellarmine</hi> called <hi>ſemichriſtia<g ref="char:EOLhyphen"/>num</hi>) yet we ought not to looſe a letter or ſyllable of truth to gaine all the world, and ſo <hi>Wicelius</hi> did <hi>tertiam religionem,</hi> and <hi>mediam meditari,</hi> and therefore did bitter<g ref="char:EOLhyphen"/>ly at the ſame time write againſt Papiſts and <hi>Luther</hi> too, and howſoever <hi>Melancthon</hi> was thought to be rather <hi>me<g ref="char:EOLhyphen"/>dius,</hi> then moderate, yet he is wronged, for he vehement<g ref="char:EOLhyphen"/>ly oppoſed the Emperors <hi>Interim:</hi> It is better to have diſ<g ref="char:EOLhyphen"/>ſention for truths ſake, then a ſinfull accord: Agreement can never be made of the mixture of errour and Truth; we have a famous inſtance for this of the Orthodox and the Arrians, <hi>Syrmienſis Synodus</hi> in humane wiſe<g ref="char:EOLhyphen"/>dome to quench the fire raiſed by the Arrians, did con<g ref="char:EOLhyphen"/>clude an ambiguous forme, that ſo both parties might have their ſenſes, and therefore whereas it was uſed to be read in the Creed <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they would have it <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that ſo both parties might agree. But what became of this? a great fire was raiſed hereupon, which made <hi>Hoſius</hi> a grave man, that yeelded in that Synod, to grieve becauſe he had betrayed the truth.</p>
+            <p n="2">2. A Socinian moderation; And this is indeed rather a curſed Academicall and ſcepticall unbeliefe in funda<g ref="char:EOLhyphen"/>mentall things then moderation; That what the Schoole<g ref="char:EOLhyphen"/>men doe in many Schoole and abſtruſe queſtions, the ſame they doe in ſubſtantials and eſſentials, <hi>videtur quod ſic, &amp; videtur quod non,</hi> and <hi>prout nobis nunc videtur;</hi> theſe will put a <hi>fortaſſe,</hi> and <hi>ſalvo meliorum judicio,</hi> upon recei<g ref="char:EOLhyphen"/>ved Principles of Faith; and its obſerved, that they would make a Declaration <hi>ſententiae eorum,</hi> of their judge<g ref="char:EOLhyphen"/>ment
+<pb n="20" facs="tcp:111385:13"/> and opinion, not <hi>fidei</hi> in maine things of Religion.</p>
+            <p n="3">3. A ſtate politique Moderation. That is alſo, when we bring down Scripture and the Commands of Chriſt to ſtate conſiderations; This hath been fatall to Refor<g ref="char:EOLhyphen"/>mers, and all this ariſeth becauſe they doe not thinke by faith, that Chriſt is able to ſave the ſhip they are in, when the waves and tempeſts doe ariſe, was not this the deſtru<g ref="char:EOLhyphen"/>ction of <hi>Ieroboam?</hi> and hath not the Lord been ſevere in puniſhing even little neglects in his worſhip?</p>
+            <p n="4">4. A Chriſtian Moderation, which is to be ſeen in a toleration, and forbearing of the weake, in ſome opini<g ref="char:EOLhyphen"/>ons, and in an accommodation of diffenting brethren, ſo farre as truth, and the peace of a Kingdome will beare. Let there be a conſidering of one another, ſo farre, that the prevailing party may not violently urge an uniforme obedience, nor the oppreſſed party, an unlawfull liberty. It is but a trifle comparatively that I ſhall inſtance in, yet <hi>Tully</hi> was applauded in it, when two great Oratours quar<g ref="char:EOLhyphen"/>relled about <hi>tertio Conſul,</hi> and <hi>tertium Conſul,</hi> which was beſt Latine, and calling upon <hi>Tully</hi> to judge, he decideth it thus, by wiſhing them to write the halfe word onely, <hi>tert. Conſul,</hi> and ſo both parties might quickly agree. In wounds its better to cloſe and heale, rather then widen, eſpecially when there is a common enemy to deſtroy both. And this made the Orthodox when they were afraid the true faith would be ſubverted by the Arrians, who were potent and numerous, to joyne with the No<g ref="char:EOLhyphen"/>vatians, who agreed with them in the Deity of Chriſt, (although diſſenting from them in matters about Bap<g ref="char:EOLhyphen"/>tiſme) and this concord proved ſucceſſefull.</p>
+            <p>I know the queſtion of tolerating men diſſenting in Religion is a vaſt ocean, and many learned men have writ of it, both Papiſts and Proteſtants, yet I obſerve thoſe
+<pb n="21" facs="tcp:111385:13"/> that are ſound and judicious, eſpecially when they come to ſpeake of puniſhments for their errours, to incline <hi>in mitiorem partem:</hi> Although indeed the Magiſtrate is herein to deport himſelfe ſo, that he be neither guilty of ſinfull remiſneſſe on one ſide, or unlawfull ſeverity on the other.</p>
+            <p>Uſe of Thankfulneſſe, that we are as this day delive<g ref="char:EOLhyphen"/>red from Popery, and all their cruell attempts. I will conclude all, that if Popery be thus cruell, thus Idola<g ref="char:EOLhyphen"/>litricall; let us with hearts and tongues give God the Glory, That you are a Parliament, that we have our hou<g ref="char:EOLhyphen"/>ſes, our ſtates, our Religion; Let us bleſſe God for this dayes mercies. <hi>Abraham</hi> received <hi>Iſaac</hi> from the grave as dead; ſo doe you all your mercies temporall and ſpi<g ref="char:EOLhyphen"/>rituall, eſpecially having ſo many deliverances and vi<g ref="char:EOLhyphen"/>ctories vouchſafed by God to your Armies. You have many fifths of <hi>November</hi> in this one day; and every time you have a victory it is a deliverance from a Gun-powder plot; before it was ſecret, and now it is open.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <pb facs="tcp:111385:14"/>
+            <opener>
+               <date>Die Martis, <hi>6.</hi> Novemb. <hi>1644.</hi>
+               </date>
+            </opener>
+            <p>ORdered by the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That M<hi rend="sup">r</hi> 
+               <hi>Nicoll,</hi> and M<hi rend="sup">r</hi> 
+               <hi>Aſhhurſt</hi> do from this Houſe give thankes to M<hi rend="sup">r</hi> 
+               <hi>Burgeſs,</hi> for the great paines he took in his Sermon on the Fifth of <hi>November,</hi> at the in<g ref="char:EOLhyphen"/>treaty of the ſaid Commons at <hi>Mar<g ref="char:EOLhyphen"/>garets Weſtminster;</hi> and to deſire him to print his Sermon: and it is ordered, That none ſhall preſume to print his Sermon, but whom the ſaid M<hi rend="sup">r</hi> 
+               <hi>Bur<g ref="char:EOLhyphen"/>geſs</hi> ſhall authorize under his hand<g ref="char:EOLhyphen"/>writing.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+
+               <signed>ANTHONY BURGESS.</signed>
+            </closer>
+            <postscript>
+               <p>I appoint <hi>Tho. Vnderhill</hi> to print my Sermon, </p>
+            </postscript>
+            <pb facs="tcp:111385:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
